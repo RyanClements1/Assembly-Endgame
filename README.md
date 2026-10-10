@@ -120,12 +120,11 @@ npm run preview
 ├── index.jsx         # React entry point
 ├── index.html        # HTML page and app mount point
 ├── index.css         # Application styles
-├── languages.js      # Language names and chip colors
+├── languages.js      # Language names and chip colours
 ├── words.js          # List of words used for random selection
 ├── utils.js          # Random word and farewell message helpers
 ├── vite.config.js    # Vite configuration with React plugin
 ├── package.json      # Scripts and package dependencies
-├── hint.md           # Original exercise hint
 └── README.md         # Project documentation
 ```
 
